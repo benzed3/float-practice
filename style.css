@@ -20,18 +20,33 @@
   
   #left {
     background: #666;
+    width: 33.33%;
+    float: left;
+    height: 18.4px;
+    padding: 20px;
+    text-align: center;
   }
   
   #middle {
     background: #888;
+    width: 33.33%;
+    float: left;
+    height: 18.4px;
+    padding: 20px;
+    text-align: center;
   }
   
   #right {
     background: #666;
+    width: 33.3%;
+    float: left;
+    height: 18.4px;
+    padding: 20px;
+    text-align: center;
   }
   
   #full {
-  
+    margin-top: 20px;
   }
   
   #division {
@@ -44,4 +59,10 @@
   
   footer {
     background: #ccc;
+  }
+
+  .clearfix::after {
+    content: "";
+    display:block;
+    clear: both;
   }
