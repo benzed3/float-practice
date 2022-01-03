@@ -21,14 +21,17 @@
   
   #left {
     float: left;
+    background: #666;
   }
   
   #middle {
     float: left;
+    background: #888;
   }
   
   #right {
     float: left;
+    background: #666;
   }
   
   #full {
