@@ -24,18 +24,21 @@
     float: left;
     background: #666;
     width: 33.33%;
+    padding: 20px 0 20px 0;
   }
   
   #middle {
     float: left;
     background: #888;
     width: 33.33%;
+    padding: 20px 0 20px 0;
   }
   
   #right {
     float: left;
     background: #666;
     width: 33.33%;
+    padding: 20px 0 20px 0;
   }
   
   #full {
