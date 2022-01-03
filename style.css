@@ -19,51 +19,29 @@
   }
   
   #left {
-    background: #666;
-    width: 33.33%;
-    float: left;
-    height: 58.4px;
-    text-align: center;
+   
   }
   
   #middle {
-    background: #888;
-    width: 33.33%;
-    float: left;
-    height: 58.4px;
-    text-align: center;
+    
   }
   
   #right {
-    background: #666;
-    width: 33.3%;
-    float: left;
-    height: 58.4px;
-    text-align: center;
+    
   }
   
   #full {
-    margin-top: 20px;
+    
   }
   
   #division {
-    background: #6ea3da;
-    margin: 0 10px 0 10px;
+   
   }
   
   aside {
-    background: #fff;
-    height: 116.8px;
-    width: 33.33%;
+    
   }
   
   footer {
-    background: #ccc;
-    margin-top: 20px;
-  }
-
-  .clearfix::after {
-    content: "";
-    display:block;
-    clear: both;
+   
   }
