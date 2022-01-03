@@ -16,22 +16,26 @@
   }
   
   section {
-    
+    padding: 20px 0 20px 0;
+    margin-bottom: 20px;
   }
   
   #left {
     float: left;
     background: #666;
+    width: 33.33%;
   }
   
   #middle {
     float: left;
     background: #888;
+    width: 33.33%;
   }
   
   #right {
     float: left;
     background: #666;
+    width: 33.33%;
   }
   
   #full {
