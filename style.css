@@ -5,7 +5,7 @@
   
   body {
     margin: 0;
-
+    font-size: 24px;
   }
   
   header {
@@ -13,23 +13,22 @@
     margin-bottom: 20px;
     color: #333;
     background: #ccc;
-    font-size: 24px;
   }
   
   section {
-    background: #eee;
+    
   }
   
   #left {
-   
+    float: left;
   }
   
   #middle {
-    
+    float: left;
   }
   
   #right {
-    
+    float: left;
   }
   
   #full {
@@ -41,7 +40,7 @@
   }
   
   aside {
-    
+    clear: both;
   }
   
   footer {
