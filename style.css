@@ -13,6 +13,7 @@
     margin-bottom: 20px;
     color: #333;
     background: #ccc;
+    width: 100%;
   }
   
   section {
@@ -39,11 +40,11 @@
   }
   
   #full {
-    
+    background: #eee;
   }
   
   #division {
-   
+   background: #6ea3da;
   }
   
   aside {
